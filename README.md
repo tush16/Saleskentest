@@ -1,5 +1,5 @@
 # Database:
-![image](https://user-images.githubusercontent.com/70327869/204327861-e95a3035-6657-45f7-b06c-d9849ae35421.png)
+![image](https://user-images.githubusercontent.com/70327869/204331411-b515a92d-6add-40f4-bb89-4d9b09d471f6.png)
 
 
 # Webpages:
@@ -17,7 +17,7 @@
 
  
 ### ii) Subject Average Function:
- ![image](https://user-images.githubusercontent.com/70327869/204327986-d3ba1aba-0e70-4303-ace1-9009b80c3695.png)
+![image](https://user-images.githubusercontent.com/70327869/204331461-7945c1c1-2812-48bf-ad5f-f829c101240a.png)
 
 ### iii)Top Student Function:
  ![image](https://user-images.githubusercontent.com/70327869/204328014-c7bf0429-1240-4cbd-8743-a97363d0e747.png)
