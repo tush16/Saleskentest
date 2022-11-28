@@ -1,5 +1,5 @@
 # Database:
-![image](https://user-images.githubusercontent.com/70327869/204331411-b515a92d-6add-40f4-bb89-4d9b09d471f6.png)
+![image](https://user-images.githubusercontent.com/70327869/204332263-cac51191-f386-4b21-8495-76cfade1b7ad.png)
 
 
 # Webpages:
