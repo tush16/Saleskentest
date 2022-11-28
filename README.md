@@ -8,12 +8,12 @@
 
                                               
 ## B) Report page:
-![image](https://user-images.githubusercontent.com/70327869/204327925-40e84ab8-6dd5-4269-aa4c-dae819db996b.png)
+![image](https://user-images.githubusercontent.com/70327869/204333047-80b54a1e-7fbd-41c6-901f-205bcc287369.png)
 
  
 
 ### i)Class Average Function:
-![image](https://user-images.githubusercontent.com/70327869/204327960-1a8620ba-d3aa-4acc-8eb2-f97235ccdf65.png)
+![image](https://user-images.githubusercontent.com/70327869/204333076-dd049214-e924-466d-b174-e332b4b6d459.png)
 
  
 ### ii) Subject Average Function:
